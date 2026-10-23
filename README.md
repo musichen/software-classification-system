@@ -3470,3 +3470,15 @@ A useful modern spectrum:
 ---
 
 Registry coverage: **547** original inventory URLs assigned to a software class, **122** kept as non-class inventory, **669** original URLs total. Taxonomy categories: **100/100**.
+
+## Contributing
+
+Improvements are welcome. To propose a change:
+
+1. Locate the category in [`100categories-of-software.md`](100categories-of-software.md) (the source taxonomy) and in the matching `## <number>. <Category>` section of this README.
+2. Keep the per-category structure intact: Subcategories, Example software (official product URLs), and Curated lists.
+3. Add one category or one correction per pull request, and keep example links pointed at official product pages.
+
+## License
+
+CC0 1.0 Universal. See [LICENSE](LICENSE).
